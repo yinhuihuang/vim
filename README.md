@@ -77,7 +77,7 @@ I use `vundle` to manage my plugins.
 
 2. Clone and install this repo:
 
-        git clone git://github.com/fenghuijie/vim_config_base.git ~/.vim
+        git clone git://github.com/yinhuihuang/vim_config_base.git ~/.vim
         ln -s ~/.vim/vimrc ~/.vimrc
 
 3. Setup `Vundle`:
